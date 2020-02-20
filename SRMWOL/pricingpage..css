@@ -1,0 +1,16 @@
+body{
+    background-color: lightcoral;
+ 
+
+}
+p{
+    color:yellow;
+    text-shadow:black;
+    font-style: oblique;
+}
+
+a{
+    color:white;
+    background-color:red;
+    border-radius:10px;
+}

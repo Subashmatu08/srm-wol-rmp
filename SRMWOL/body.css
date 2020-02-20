@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-size:30px;
+    text-shadow: chartreuse;    
+}
+.yes{
+    color:yellow;
+    background-color: saddlebrown;
+    border-radius:5px;
+    border-width:100%;
+    border-bottom:120px;
+    border:200px;
+    border-color: black;
+}
+.no{
+    color:yellow;
+    background-color: saddlebrown;
+    border-radius:5px;
+    border-width:40px;
+    border-top: 100px;
+}
